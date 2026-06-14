@@ -209,11 +209,6 @@ https://vercel.com/aditi-s-projects2521/frontend
 https://github.com/user-attachments/assets/c824674b-5096-4c3d-aeec-f907ba39ad3a
 
 
-
-
-
----
-
 # 🔮 Future Improvements
 
 - Public deployment of FastAPI backend
