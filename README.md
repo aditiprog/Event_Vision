@@ -189,6 +189,18 @@ https://vercel.com/aditi-s-projects2521/frontend
 
 ---
 
+
+#  screenshots 
+
+<img width="1208" height="945" alt="Screenshot 2026-06-14 140233" src="https://github.com/user-attachments/assets/5a57e6ce-3a76-44ff-922e-390f8e9f9693" />
+<img width="1315" height="971" alt="Screenshot 2026-06-14 135912" src="https://github.com/user-attachments/assets/d39bbabe-7022-4a96-b163-696428749545" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-13 141523" src="https://github.com/user-attachments/assets/5ab8ad5c-220a-42e5-89bc-c4e9abf18ab0" />
+<img width="1339" height="857" alt="Screenshot 2026-06-14 135956" src="https://github.com/user-attachments/assets/f054dc6b-dcf3-4f2c-9b1c-71e06d4c63bf" />
+
+
+
+
+
 # 🎥 Demo Video
 
 
