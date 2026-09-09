@@ -225,19 +225,6 @@ https://github.com/user-attachments/assets/c824674b-5096-4c3d-aeec-f907ba39ad3a
 
 # 👩‍💻 Author
 
----
-
-# 👥 Team
-
-## **XOR**
-
-This project was developed as a group project by:
-
-- **Aditi**
-- **Sandeep**
-- **Rachita**
-- **Sachin**
-- **Deepakkumar**
 
 ---
 
