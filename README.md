@@ -506,9 +506,8 @@ flowchart LR
 ## Contributor
 
 
-| Name | |  |
-| --- | --- |
-| Aditi Sharma | CSE ( Cyber security and digital forensics) |
+| Name | 
+| Aditi Sharma | CSE ( Cyber security and digital forensics) 
 
 ---
 
